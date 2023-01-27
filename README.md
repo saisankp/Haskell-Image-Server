@@ -15,4 +15,3 @@ To run the project, run this command in the root project directory (this will ta
 
 `bash render.sh`
 
-If you want to see a visualization of the project, have a look at [my demo video on Youtube.](https://youtu.be/Vwto9clVuf8)
